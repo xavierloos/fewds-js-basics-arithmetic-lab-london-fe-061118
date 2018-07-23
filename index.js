@@ -11,6 +11,6 @@ let newID = oldID;
 var ageIsValid=true;
 
 if (ageIsValid===true){
-  ageIsValid=Math.isInteger()
+  ageIsValid=Number.isInteger()
 }
 var randomNumber = Math.random();
