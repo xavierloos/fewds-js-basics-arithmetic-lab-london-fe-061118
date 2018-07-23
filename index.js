@@ -14,3 +14,4 @@ if (ageIsValid===true){
   ageIsValid=Number.isInteger()
 }
 var randomNumber = Math.random();
+var randomInteger = Math.random();
