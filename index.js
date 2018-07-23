@@ -15,5 +15,4 @@ if (ageIsValid===true){
 }
 var randomNumber = Math.random();
 
-const flooredRandomInteger = Math.floor(randomNumber);
-var randomInteger = flooredRandomInteger();
+var randomInteger = Math.floor(randomNumber);
