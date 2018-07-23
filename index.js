@@ -17,4 +17,4 @@ var randomNumber = Math.random();
 
 var randomInteger = Math.floor(randomNumber);
 
-var randomUserID = Math.min
+var randomUserID = Math.min(1000000001)
