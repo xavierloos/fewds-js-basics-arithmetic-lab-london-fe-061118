@@ -15,3 +15,5 @@ if (ageIsValid===true){
 }
 var randomNumber = Math.random();
 var randomInteger = Math.random();
+const flooredRandomInteger = Math.floor(randomNumber);
+expect(randomInteger).to.eql(flooredRandomInteger);
