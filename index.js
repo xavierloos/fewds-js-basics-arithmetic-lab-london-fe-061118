@@ -7,7 +7,7 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-let newID = oldID;
+var newID = oldID;
 var ageIsValid=true;
 
 if (ageIsValid===true){
